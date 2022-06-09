@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    text-align: center;
+    height: 100vw;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+li {
+    list-style-type: circle;
+}
